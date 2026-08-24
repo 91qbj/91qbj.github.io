@@ -40,7 +40,7 @@ var urls=[
 	'wyzshbfe.com', 
 ];                                                                                                                  
 
-var JumpPage="91qbj.com";
+
 
 var newestUrls = [];
 
