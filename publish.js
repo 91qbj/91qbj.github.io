@@ -50,12 +50,12 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
 	'https://91qbj.pages.dev',
-	'https://91qbj.github.io/',
+	'https://91qbj.github.io',
 ];
 var foreverUrls = [
 	  'https://91qbj.net',
 	JumpPage,
-	'91qbj.com',
+	'https://91qbj.com',
 	
 ];
 var notices = [
