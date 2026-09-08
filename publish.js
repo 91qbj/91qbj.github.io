@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'umbsbgotu.cc', 
+	'asostarm.cc', 
 ];                                                                                                                  
 
 var JumpPage="91qbj.com";
