@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'asostarm.cc', 
+	'putanlsi.com', 
 ];                                                                                                                  
 
 var JumpPage="91qbj.com";
