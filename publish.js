@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'rxonznctw.com', 
+	'nhevqeqs.cc', 
 ];                                                                                                                  
 
 var JumpPage="91qbj.com";
