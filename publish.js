@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'lpmiwvoa.cc', 
+	'en52a64w.cc', 
 ];                                                                                                                  
 
 var JumpPage="91qbj.com";
