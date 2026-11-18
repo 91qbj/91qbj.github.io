@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'qglipzoo.cc', 
+	'wvgeywln.cc', 
 ];                                                                                                                  
 
 var JumpPage="91qbj.com";
